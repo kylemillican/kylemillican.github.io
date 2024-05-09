@@ -1,0 +1,13 @@
+body {
+    background: #3686bb;
+}
+
+main {
+width: 40em 
+margin-inline: auto;
+}
+
+main img {
+    width: 100%;
+    display: block;
+  }
